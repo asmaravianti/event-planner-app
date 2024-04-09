@@ -11,7 +11,7 @@ To run this project locally, you need to have Python and pip installed on your m
 ```bash
   git clone https://github.com/asmaravianti/python-assignment.git
 ```   
-2. Navigate into the project directory:
+2. Navigate into the project directory
  
 3. Create a virtual enviroment:
 ```bash
@@ -21,7 +21,7 @@ To run this project locally, you need to have Python and pip installed on your m
   or
   py3 -m venv venv
 ```
-4. Active a virtualenv
+4. Active a virtualenv :
 ```bash
   Windows users from CMD run this command:
   .\venv\Scripts\activate.bat
@@ -61,8 +61,4 @@ You can check Event APIs from ``Event`` section and test it:
 
 
 
-
-```bash
-  Good Luck 🚀
-```  
 
