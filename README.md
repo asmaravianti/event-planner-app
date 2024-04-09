@@ -9,14 +9,10 @@ To run this project locally, you need to have Python and pip installed on your m
 
 1. Clone this repository:
 ```bash
-  git clone https://github.com/frdayvz85/assignment1.git
-  or
-  git@github.com:frdayvz85/assignment1.git
+  git clone https://github.com/asmaravianti/python-assignment.git
 ```   
 2. Navigate into the project directory:
-```bash
-  cd assignment1
-```   
+ 
 3. Create a virtual enviroment:
 ```bash
   python -m venv venv
