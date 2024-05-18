@@ -1,7 +1,7 @@
 
 # FastAPI Project
 
-This is a FastAPI project designed for Assignment 1.
+This is a FastAPI project.
 
 ## Installation
 
@@ -9,7 +9,7 @@ To run this project locally, you need to have Python and pip installed on your m
 
 1. Clone this repository:
 ```bash
-  git clone https://github.com/asmaravianti/python-assignment.git
+  git clone https://github.com/asmaravianti/event-planner-app.git
 ```   
 2. Navigate into the project directory
  
